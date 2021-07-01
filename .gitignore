@@ -1,0 +1,15 @@
+# IntelliJ IDE
+.idea/
+out/
+*.iml
+
+# Compiled Java Class
+*.class
+
+# MacOs System File
+.DS_Store
+
+# Maven
+target/
+test/
+src/test/
