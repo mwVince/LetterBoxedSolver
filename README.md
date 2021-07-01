@@ -1,7 +1,7 @@
 # LetterBoxedSolver
 An automatic solver for *New York Times* word puzzle 'Letter Boxed.'
 
-# How to Use
+## How to Use
 - Java Compiler
   - Compile the source code with Java Compiler and run Driver.
   
@@ -10,7 +10,7 @@ An automatic solver for *New York Times* word puzzle 'Letter Boxed.'
   - Build jar file with maven jar plugin.
   - Run the created jar file.
     
-# Attribute
+## Attribute
 Used word lists are download from online resource:
 - words_alpha.txt
   (https://github.com/dwyl/english-words/blob/master/words_alpha.txt)
