@@ -14,7 +14,7 @@ public class WordTreeMaker {
                 inputStream = this.getClass().getResourceAsStream("/words_alpha.txt");
             }
             else {
-                this.getClass().getResourceAsStream("/google-10000-english.txt");
+                inputStream = this.getClass().getResourceAsStream("/google-10000-english.txt");
             }
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
 
